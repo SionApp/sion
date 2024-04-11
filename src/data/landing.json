@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "title": "Iglesia Sion",
+    "description": "Website for Iglesia Sion, a Christian church in Coro, Venezuela.",
+    "lang": "es",
+    "charset": "UTF-8",
+    "ldJson": {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "Iglesia Sion",
+      "description": "Iglesia Cristiana Evangélica Pentecostal",
+      "url": "#",
+      "logo": "./public/img/icons/favicon-32x32.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "iglesiaevangelicapsion@gmail.com\n",
+        "contactType": "Solicitud de información"
+      },
+      "sameAs": [
+        "https://www.twitter.com/IglesiaSionCoro",
+        "https://www.instagram.com/iglesiasioncoro"
+      ]
+    }
+  },
+  "headerData": {
+    "logo": "Iglesia Sion",
+    "links": [
+      { "label": "Sobre nosotros", "href": "/about-us" },
+      { "label": "Discipulado", "href": "/discipleship" },
+      { "label": "Servicios", "href": "/worship-services" },
+      { "label": "Carteras", "href": "/departments" },
+      { "label": "Contactanos", "href": "/contact-us" }
+    ]
+  },
+  "heroData": {
+    "title": "Iglesia Sion",
+    "primaryCta": "Discipulado",
+    "secondaryCta": "Pentecostes",
+    "highlightedTitle": "Cambiando Vidas"
+  },
+  "servicesData": {
+    "title": "Everything you need to build a website",
+    "services": [
+      {
+        "title": "El Discipulado",
+        "icon": "DevIcon",
+        "description": "El discipulado es un viaje de transformación y crecimiento en la fe cristiana. Es un proceso en el que un creyente maduro guía y acompaña a otro en su camino de fe, ayudándole a conocer más profundamente a Jesús y a vivir según sus enseñanzas.  En la Iglesia Cristiana Evangélica Pentecostal Sion, entendemos el discipulado como una relación de acompañamiento y mentoría. Es un compromiso de amor y servicio, donde un discípulo de Jesús se dedica a hablarle a otra persona sobre Él, a compartir el Evangelio y a ayudar a esa persona a crecer en su relación con Dios.  El discipulado no es solo enseñar sobre la Biblia y la fe, sino también estar presente en los momentos de dificultad, ofrecer apoyo y orientación, y caminar juntos en el viaje de la vida cristiana. Es un proceso de aprendizaje mutuo, donde tanto el discipulador como el discípulo crecen y se fortalecen en su fe.  En nuestra iglesia, creemos que todos los creyentes están llamados a ser discipuladores, a seguir el ejemplo de Jesús y a hacer discípulos en todas las naciones. Este es el corazón de nuestra misión y nuestro compromiso como seguidores de Cristo."
+      },
+      {
+        "title": "Integrated Accessibility",
+        "icon": "PlanetIcon",
+        "description": "We care about web accessibility and have integrated features to ensure your site is accessible to all users, including those with visual or motor disabilities. Our templates comply with WCAG accessibility standards to provide an inclusive experience for everyone."
+      },
+      {
+        "title": "SEO-Optimized",
+        "icon": "FileIcon",
+        "description": "We understand the importance of your site being visible in search engines. That's why our templates are optimized for SEO, meaning they are structured and coded to be easily indexed by Google and other search engines, helping to improve your ranking in search results."
+      },
+      {
+        "title": "Easy Set up",
+        "icon": "ConfigIcon",
+        "description": "With our templates, you don't need to be a web development expert to have an impressive site. They are easy to set up and customize, with intuitive options that allow you to change colors, fonts, page layout, and more with just a few clicks. Make your site stand out hassle-free!"
+      }
+    ]
+  },
+  "adventajesData": {
+    "title": "    Unlock the Power of Luna Landing: Discover the Key Benefits",
+    "adventajes": [
+      {
+        "title": "Take Your Website to Perfection",
+        "description": "Our intuitive customization options empower you to create a website that stands out and resonates with your audience like never before. Say goodbye to cookie-cutter designs and hello to a website that truly reflects your vision and personality.",
+        "img": "template.webp",
+        "imageAlt": "this is an image about the template service adventajes",
+        "checks": ["Colors", "Fonts", "Layout"]
+      },
+      {
+        "title": "Reach the Top of Search Rankings",
+        "description": "Elevate your online visibility with our SEO-optimized template. Built with search engine algorithms in mind, our template is designed to help your website climb to the top of search engine results pages (SERPs). From optimized meta tags and clean HTML structure to mobile responsiveness and fast loading times, every aspect of our template is geared towards maximizing your website's search engine performance. Increase your organic traffic, attract more visitors, and grow your online presence with ease.",
+        "img": "seo.webp",
+        "imageAlt": "this is an image about the SEO adventajes",
+        "checks": ["Search Visibility", "Organic Traffic", "Online Credibility"]
+      }
+    ]
+  },
+  "brandsData": {
+    "title": "Integration with Leading Technologies",
+    "description": "Effortlessly integrate with leading technologies. Our platform seamlessly supports industry-standard tools and frameworks, enabling you to stay ahead of the curve and maximize productivity. Explore endless possibilities with our comprehensive compatibility features",
+    "brands": [
+      { "label": "React", "icon": "ReactIcon", "href": "https://react.dev/" },
+      { "label": "Vue", "icon": "VueIcon", "href": "https://vuejs.org/" },
+      {
+        "label": "Svelte",
+        "icon": "SvelteIcon",
+        "href": "https://svelte.dev/"
+      },
+      {
+        "label": "Solid",
+        "icon": "SolidIcon",
+        "href": "https://www.solidjs.com/"
+      },
+      {
+        "label": "Vercel",
+        "icon": "VercelIcon",
+        "href": "https://vercel.com/"
+      },
+      {
+        "label": "Netlify",
+        "icon": "NetlifyIcon",
+        "href": "https://www.netlify.com/"
+      }
+    ]
+  },
+  "pricingData": {
+    "title": "Our Pricing",
+    "tiers": [
+      {
+        "title": "Starter",
+        "description": "Best option for personal use & for your next project.",
+        "price": {
+          "amount": "Free"
+        },
+        "features": ["feature 1", "feature 2", "feature 3", "feature 4", "feature 5"],
+        "cta": "Get started"
+      },
+      {
+        "title": "Professional",
+        "description": "Relevant for multiple users, extended & premium support.",
+        "price": {
+          "amount": "$29",
+          "period": "/month"
+        },
+        "features": ["feature 1", "feature 2", "feature 3", "feature 4", "feature 5"],
+        "cta": "Get started"
+      },
+      {
+        "title": "Enterprise",
+        "description": "Best for large scale uses and extended redistribution rights.",
+        "price": {
+          "amount": "$59",
+          "period": "/month"
+        },
+        "features": ["feature 1", "feature 2", "feature 3", "feature 4", "feature 5"],
+        "cta": "Get started"
+      }
+    ]
+  },
+  "footerData": {
+    "logo": "Luna Landing",
+    "description": "Discover the Beauty of the Cosmos: Explore the Infinite Wonders of Space with Us",
+    "links": [
+      { "label": "About", "href": "/" },
+      { "label": "Services", "href": "/" },
+      { "label": "Blog", "href": "/" },
+      { "label": "FAQs", "href": "/" },
+      { "label": "Contact", "href": "/" }
+    ],
+    "socials": [
+      { "icon": "FacebookIcon", "href": "/" },
+      { "icon": "InstagramIcon", "href": "/" },
+      { "icon": "TwitterIcon", "href": "/" },
+      { "icon": "GithubIcon", "href": "/" }
+    ]
+  }
+}
